@@ -1,0 +1,74 @@
+html, body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    line-height: 1.5;
+  }
+  .page-description {
+    border: 1px solid #000;
+    margin: 2px;
+    text-align: center;
+    padding: 30px;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 5%;
+  }
+  .title-desc{
+      text-align: center;
+      margin-top: 12px;
+      font-family: 'Times New Roman', Times, serif ;
+  }
+  
+  header{
+      background-image: url('https://www.royalcaribbean.com/content/dam/royal/content/destinations/perfect-day/perfect-day-island-cococay-bahamas-overwater-cabanas.jpg');
+  }
+  li{
+      text-align: center;
+      letter-spacing: 1mm;
+      display: inline-flex;
+      padding-inline-end: 8%;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: rgb(255, 195, 127);
+      font-size: 24px;
+      list-style-type: disc;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      padding-inline-start: 4px;
+  }
+
+  
+  .nava{
+    background-color: #2b69b5;
+    
+    
+  }
+  .content{
+    background-image: url(https://warwickhotels.com/imagegen.ashx?align=center&crop=resize&image=/media/6962734/paradise_fever_savings.jpg&width=1400&height=597&altImage=/images/defaultwarwick.jpg);
+    padding: 20px;
+}
+#hometitle{
+    font-size:40px;
+    color:brown;
+    padding-right: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    backface-visibility: inherit;
+    border-radius: 80%;
+    border-color: black;
+    text-align: center;
+    margin-top: 10%;
+    
+
+}
+#homeintro{
+    backface-visibility: visible;
+    background-color: beige;
+    font: bolder , black;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10%;
+    padding: 10px;
+    margin-right: 8%;
+    margin-left: 8%;
+}
