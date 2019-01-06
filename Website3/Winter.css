@@ -1,0 +1,66 @@
+element.style {
+}
+.pane-node-field-body {
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+.block {
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+header[role=banner], .content-inner, .nav, .region-sidebar-first, .region-sidebar-second, .region-secondary-content, .region-tertiary-content, .region-footer {
+    overflow: visible;
+    word-wrap: break-word;
+}
+ul, li, h3, body, h3, h4, h5, h6, h2.pane-content, h2, h3.promo-field-node-title, #blog-subscribe h3, .block-content p.fact a, h2#timeline-header {
+    font-family: 'Lora',Georgia,serif;
+    font-style: normal;
+    font-weight: normal;
+}
+@media only screen and (max-width: 768px) and (min-width: 581px)
+body {
+    font-size: 93.8%;
+}
+body {
+    font-size: 110%;
+    font-size: 100% \;-webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    text-rendering: optimizeLegibility\9;
+}
+html {
+    background: #fff;
+    line-height: 1.6;
+    line-height: 1.3 \;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    height: 100%;
+    overflow-y: scroll;
+}
+table {
+    border-collapse: collapse;
+
+    uer agent stylesheet
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+  
+}
